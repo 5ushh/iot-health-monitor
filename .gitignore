@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+
+# Node/React
+node_modules/
+dist/
+build/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.vscode/.browse.c_cpp.db*
+
+# Logs
+*.log
