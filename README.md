@@ -10,5 +10,3 @@ Collects health data from sensors (ESP32 + MAX30100) and streams it to a cloud b
 
 ## Tech Stack
 ESP32/STM32, MQTT, Python (FastAPI/Streamlit), React, PostgreSQL/Docker.
-
-## Run 
